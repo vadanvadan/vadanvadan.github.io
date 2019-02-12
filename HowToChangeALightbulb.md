@@ -42,4 +42,4 @@ As always, safety is crucial when working with electrical or wiring faults.
 
 - Check the wattage on the used bulb and replace it with a bulb of the same wattage
 -  Dispose of the bulb well out of the reach of children
--  Don’t put your fingers in the exposed light socket
+-  **Do not** put your fingers in the exposed light socket
