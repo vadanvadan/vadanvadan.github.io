@@ -20,9 +20,11 @@ Ensure you can safely reach the bulb by using a stepladder.
 Take the bulb out of the socket. The way you do this will depend on whether your bulb has a bayonet mount or a screw fitting:
 
 **Bayonet Mount (two prongs, standard in the UK):**
+
 Grasp the bulb lightly but firmly, push upwards gently and turn anticlockwise until it is released from the socket.
 
 **Screw Fitting (most common in Europe):**
+
 Keep gently twisting anticlockwise until the bulb comes loose from the socket.
 
 5. **Replace the bulb**
