@@ -1,14 +1,14 @@
 # How To Change A Light Bulb
 
 Changing a light bulb is one of the easiest things you can do.
-Changing a light bulb is the easiest home maintenance task. But, for those of you who have just moved into a new home and are unsure how to go about it, we’ve got you covered.
+Changing a light bulb is one of the easiest home maintenance tasks. However, if you're unsure how to go about it, we’ve outlined this procedure below.
 
 
 # What you need to do
 
 
  1. **Turn off the power**
-First make sure the power is turned off. The safest way to do this is to switch the large red power button to ‘off’ on the fuse box.
+First make sure the power is turned off. The safest way to do this is to switch the large red power button to **off** on the fuse box.
 
 2. **Let it cool**
 Allow the bulb to cool before touching it.
